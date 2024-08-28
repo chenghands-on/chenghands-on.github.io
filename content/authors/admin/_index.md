@@ -54,10 +54,10 @@ interests:
   - Energey-efficient ML(Neural Network Sturcture Design, Power-Managed Data Centers)
 
 education:
-  - area: Ph.D. in Operation Research
+  - area: Ph.D. in Operation Research，2024 - 2029 (expected)
     institution: Stanford University
-    date_start: 2024
-    date_end: 2029(expected)
+    # date_start: 2024
+    # date_end: 2029
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -65,8 +65,8 @@ education:
     #   url: 'https://example.com'
   - area: BSc in Mathematics, 2020 - 2024
     institution: Fudan University
-    date_start: 2020
-    date_end: 2024
+    # date_start: 2020
+    # date_end: 2024
     summary: |
       GPA: 3.85/4.0
 
@@ -74,10 +74,10 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: High School Diploma
+  - area: High School Diploma, 2017-2020
     institution: No.2 High School of East China Normal University
-    date_start: 2017
-    date_end: 2020
+    # date_start: 2017
+    # date_end: 2020
     # summary: |
     #   GPA: 3.4/4.0
       
