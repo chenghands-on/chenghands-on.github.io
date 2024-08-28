@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 谢承翰
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chenghan Xie
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chenghan
+last_name: Xie
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🙌
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,13 +19,13 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Chief Scientist
+# # Role/position/tagline
+# role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Stanford University
+    # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,9 +52,9 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Operation Research
     institution: Stanford University
-    date_start: 2016-01-01
+    date_start: 2024
     date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
