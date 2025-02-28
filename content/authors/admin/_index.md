@@ -54,7 +54,7 @@ interests:
   - Energey-efficient ML(Neural Network Sturcture Design, Power-Managed Data Centers)
 
 education:
-  - area: Ph.D. in Operation Research，2024 - 2029 (expected)
+  - area: Ph.D. in Operation Research, 2024 - 2029 (expected)
     institution: Stanford University
     # date_start: 2024
     # date_end: 2029
