@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Welcome to ChenghanXie's website
+title: Welcome to Chenghan Xie's website--me in a nutshell
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://chenghands-on.github.io/'
 
 ############################
 ## LANGUAGE
