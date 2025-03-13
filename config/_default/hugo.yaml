@@ -1,8 +1,3 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 # Website name
 title: "Chenghan Xie's site – Me in a Nutshell"
 # Website URL
@@ -51,5 +46,14 @@ markup:
     lineNos: false
 security:
   _merge: deep
+
+############################
+## ✅ Sitemap & Lastmod Configuration ✅
+############################
 sitemap:
-  _merge: deep
+  changefreq: "weekly"
+  filename: "sitemap.xml"
+  priority: 0.5
+
+frontmatter:
+  lastmod: ["lastmod", ":fileModTime", ":default"]
