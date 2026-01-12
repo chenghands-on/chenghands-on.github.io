@@ -102,5 +102,3 @@ My research interests lie in the **Efficient Employment of Generative AI**, **Re
 Before joining Stanford, I obtained my Bachelor of Mathematics from Fudan University. I have conducted research under the supervision of Prof. Yinyu Ye and Prof. Ge. Additionally, I gained industrial research experience as an intern at ByteDance Seed and Shanghai AI Laboratory, working on diffusion model acceleration and domain-specific LLM adaptation.
 
 My ultimate goal is to uncover the mysteries of intelligence and develop methods that enhance learning and improve lives. If you share similar interests, feel free to contact me via email.
-
-You can download my full [Curriculum Vitae](cv.pdf).
