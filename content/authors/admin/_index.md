@@ -103,4 +103,4 @@ Before joining Stanford, I obtained my Bachelor of Mathematics from Fudan Univer
 
 My ultimate goal is to uncover the mysteries of intelligence and develop methods that enhance learning and improve lives. If you share similar interests, feel free to contact me via email.
 
-You can download my full [Curriculum Vitae](files/cv.pdf).
+You can download my full [Curriculum Vitae](cv.pdf).
