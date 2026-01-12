@@ -95,7 +95,7 @@ work:
 
 ## About Me
 
-Welcome to my personal website! I am a first-year Ph.D. student in the **Operations Research** group at **Stanford University**, advised by Professors [Jose Blanchet]([https://www.stanford.edu/~joseblan/](https://joseblanchet.com/)) and [Renyuan Xu]([https://renyuanxu.github.io/](https://renyuanxu.github.io/)).
+Welcome to my personal website! I am a first-year Ph.D. student in the **Operations Research** group at **Stanford University**, advised by Professors [Jose Blanchet](https://joseblanchet.com/) and [Renyuan Xu](https://renyuanxu.github.io/).
 
 My research interests lie in the **Efficient Employment of Generative AI**, **Reasoning**, and **Multimodal Alignment**. I am particularly interested in leveraging stochastic analysis to improve diffusion models and large language model training.
 
