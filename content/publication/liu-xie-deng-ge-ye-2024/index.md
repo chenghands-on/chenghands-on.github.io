@@ -9,7 +9,7 @@ authors:
 date: '2024-03-01'
 publishDate: '2024-08-29T15:49:00.911915Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
 doi: 10.1609/aaai.v38i12.29301
 links:

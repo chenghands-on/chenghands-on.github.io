@@ -55,27 +55,15 @@ education:
     institution: Fudan University
     summary: |
       GPA: 3.85/4.0 (Major GPA: 3.92/4.0)
-      Ranking: 2/152
 
 bio: Chenghan Xie is a Ph.D. student in Operations Research at Stanford University, working on generative models and AI impact in financial markets.
 
 work:
-  - position: Researcher, Sobolev Regularized Score Difference Estimation
+  - position: Stanford Research
     company_name: Stanford University
     date_start: 2025-06-01
     date_end: ""
-    summary: |
-      - Proposed a Sobolev-regularized classification framework for score difference estimation in diffusion models.
-      - Applied the method to ECG generation from PTB-XL to ICBEB2018, improving FID from 11.087 to 8.097 and downstream AUC to 0.915.
-      - Proved minimax optimality and convergence rates, with stronger robustness in small-sample regimes.
-  - position: Researcher, AI Monoculture Paradox for Financial Markets
-    company_name: Stanford University
-    date_start: 2026-05-01
-    date_end: ""
-    summary: |
-      - Developed a Kyle-style and mean-field game framework for AI adoption in financial markets.
-      - Characterized how shared AI signals can synchronize order flow, preserve common forecast errors, amplify price impact, and reduce informed-sector surplus.
-      - Studied planner and governance implications under heterogeneous adoption costs and systematic AI bias.
+    summary: ""
   - position: Multimodal Interaction & World Model Intern
     company_name: ByteDance Seed
     date_start: 2025-06-01
@@ -93,26 +81,13 @@ work:
       - Evaluated mainstream LLMs on domain-specific tasks focusing on reasoning capabilities.
       - Fine-tuned models like LLaMA 3 using QLORA and PEFT for scientific Q&A.
 
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python, PyTorch, vLLM, Pandas, Matplotlib, XGBoost, Cvxpy
-        percent: 95
-        icon: code-bracket
-      - name: Optimization, Diffusion Models, Reinforcement Learning
-        percent: 90
-        icon: chart-bar
-      - name: Large Language Model Inference
-        percent: 85
-        icon: cpu-chip
-
 ---
 
 ## About Me
 
 Welcome to my personal website! I am **Chenghan Xie**, a Ph.D. student in the **Operations Research** group at **Stanford University**, advised by Professors [Jose Blanchet](https://joseblanchet.com/) and [Renyuan Xu](https://renyuanxu.github.io/).
 
-My research interests lie in **Generative Models** and **AI Impact for Finance**. I am currently working on Sobolev-regularized score difference estimation for diffusion models and game-theoretic models of AI adoption in financial markets.
+My research interests lie in **Generative Models** and **AI Impact for Finance**. I am currently pursuing Stanford research in generative modeling and preparing one working paper.
 
 Before joining Stanford, I obtained my Bachelor of Mathematics from Fudan University. I have conducted research under the supervision of Prof. Yinyu Ye and Prof. Ge. Additionally, I gained industrial research experience at ByteDance Seed and Shanghai AI Laboratory, working on diffusion model acceleration, multimodal/world models, and domain-specific LLM adaptation.
 

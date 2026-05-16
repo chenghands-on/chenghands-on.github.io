@@ -20,14 +20,14 @@ sections:
         text: Download CV
         url: cv.pdf
     design:
-      css_class: dark
+      css_class: ""
       background:
-        color: "#0f172a"
+        color: "#f4fbf8"
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
-            brightness: 0.82
+            brightness: 1.0
           size: cover
           position: center
           parallax: false
@@ -39,9 +39,7 @@ sections:
       text: |-
         My current research focuses on generative models and the economic impact of AI in financial markets.
 
-        **Sobolev Regularized Score Difference Estimation in Diffusion Models.** I study score difference estimation for transfer learning in diffusion models, with Sobolev regularization to address gradient divergence and improve robustness in small-sample regimes.
-
-        **The AI Monoculture Paradox for Financial Markets.** I develop Kyle-style and mean-field game models of AI adoption, studying how individually rational reliance on shared AI signals can synchronize trading behavior and create crowding externalities.
+        I am also preparing one working paper.
     design:
       columns: '1'
   # - block: collection
