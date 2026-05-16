@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-summary: "Chenghan Xie is a Ph.D. student in Operations Research at Stanford University, working on generative AI, reasoning, multimodal alignment, stochastic analysis, and diffusion models."
+summary: "Chenghan Xie is a Ph.D. student in Operations Research at Stanford University, working on generative models, diffusion models, and AI impact in financial markets."
 date: 2022-10-24
 type: landing
 
@@ -22,27 +22,28 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: "#0f172a"
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 0.82
           size: cover
           position: center
           parallax: false
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  - block: markdown
+    id: research
+    content:
+      title: Current Research
+      subtitle: ''
+      text: |-
+        My current research focuses on generative models and the economic impact of AI in financial markets.
 
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
+        **Sobolev Regularized Score Difference Estimation in Diffusion Models.** I study score difference estimation for transfer learning in diffusion models, with Sobolev regularization to address gradient divergence and improve robustness in small-sample regimes.
+
+        **The AI Monoculture Paradox for Financial Markets.** I develop Kyle-style and mean-field game models of AI adoption, studying how individually rational reliance on shared AI signals can synchronize trading behavior and create crowding externalities.
+    design:
+      columns: '1'
   # - block: collection
   #   id: papers
   #   content:
@@ -57,7 +58,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Publications & Working Papers
       text: ""
       filters:
         folders:
