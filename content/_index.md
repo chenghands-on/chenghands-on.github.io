@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
+summary: "Chenghan Xie is a Ph.D. student in Operations Research at Stanford University, working on generative AI, reasoning, multimodal alignment, stochastic analysis, and diffusion models."
 date: 2022-10-24
 type: landing
 
@@ -54,6 +55,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""

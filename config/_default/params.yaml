@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Stanford University'
+    description: 'Chenghan Xie is a Ph.D. student in Operations Research at Stanford University, working on generative AI, reasoning, multimodal alignment, stochastic analysis, and diffusion models.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'a81abf4d5e353c4d'
     baidu: ''
 
 # Site header

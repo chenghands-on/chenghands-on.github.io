@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 谢承翰
+title: Chenghan Xie
 
 # Name pronunciation (optional)
-name_pronunciation: Chenghan Xie
+name_pronunciation: 谢承翰
 
 # Full name (for SEO)
 first_name: Chenghan
@@ -57,7 +57,7 @@ education:
       GPA: 3.85/4.0 (Major GPA: 3.92/4.0)
       Ranking: 2/152
 
-bio: Ph.D. Student at Stanford University
+bio: Chenghan Xie is a Ph.D. student in Operations Research at Stanford University.
 
 work:
   - position: Multimodal Interaction & World Model Intern
@@ -95,7 +95,7 @@ work:
 
 ## About Me
 
-Welcome to my personal website! I am a first-year Ph.D. student in the **Operations Research** group at **Stanford University**, advised by Professors [Jose Blanchet](https://joseblanchet.com/) and [Renyuan Xu](https://renyuanxu.github.io/).
+Welcome to my personal website! I am **Chenghan Xie**, a Ph.D. student in the **Operations Research** group at **Stanford University**, advised by Professors [Jose Blanchet](https://joseblanchet.com/) and [Renyuan Xu](https://renyuanxu.github.io/).
 
 My research interests lie in the **Efficient Employment of Generative AI**, **Reasoning**, and **Multimodal Alignment**. I am particularly interested in leveraging stochastic analysis to improve diffusion models and large language model training.
 

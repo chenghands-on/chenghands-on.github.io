@@ -1,8 +1,7 @@
 ---
-title: Blog
+title: Projects
 draft: true
 _build:
   render: never
   list: never
-view: article-grid
 ---
