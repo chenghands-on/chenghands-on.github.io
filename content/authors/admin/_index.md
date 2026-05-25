@@ -56,7 +56,7 @@ education:
     summary: |
       GPA: 3.85/4.0 (Major GPA: 3.92/4.0)
 
-bio: Chenghan Xie is a Ph.D. student in Operations Research at Stanford University, working on generative models and AI impact in financial markets.
+bio: Chenghan Xie is a Ph.D. student in Operations Research at Stanford University, working on generative models, diffusion models, and AI impact in financial markets.
 
 work:
   - position: Stanford Research
@@ -85,10 +85,10 @@ work:
 
 ## About Me
 
-Welcome to my personal website! I am **Chenghan Xie**, a Ph.D. student in the **Operations Research** group at **Stanford University**, advised by Professors [Jose Blanchet](https://joseblanchet.com/) and [Renyuan Xu](https://renyuanxu.github.io/).
+Welcome to my personal website! I am **Chenghan Xie** (谢承翰), a Ph.D. student in the **Operations Research** group at **Stanford University**, advised by Professors [Jose Blanchet](https://joseblanchet.com/) and [Renyuan Xu](https://renyuanxu.github.io/).
 
 My research interests lie in **Generative Models** and **AI Impact for Finance**. I am currently pursuing Stanford research in generative modeling and preparing one working paper.
 
 Before joining Stanford, I obtained my Bachelor of Mathematics from Fudan University. I have conducted research under the supervision of Prof. Yinyu Ye and Prof. Ge. Additionally, I gained industrial research experience at ByteDance Seed and Shanghai AI Laboratory, working on diffusion model acceleration, multimodal/world models, and domain-specific LLM adaptation.
 
-My ultimate goal is to uncover the mysteries of intelligence and develop methods that enhance learning and improve lives. If you share similar interests, feel free to contact me via email.
+My long-term goal is to help define the right objectives for AI systems, so that their growing capabilities translate into improvements in human life, especially in financial markets. As LLMs become increasingly capable, I believe the central question is shifting from what they can do to what goals we should set for them. If you share similar interests, feel free to contact me via email.

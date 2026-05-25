@@ -3,6 +3,15 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+description: 'Official personal website of Chenghan Xie, a Ph.D. student in Operations Research at Stanford University working on generative models, diffusion models, and AI impact in financial markets.'
+keywords:
+  - Chenghan Xie
+  - Chenghan Xie Stanford
+  - Stanford Operations Research
+  - generative models
+  - diffusion models
+  - AI impact in financial markets
+
 # Appearance
 appearance:
   mode: system

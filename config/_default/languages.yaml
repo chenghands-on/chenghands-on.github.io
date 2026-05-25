@@ -5,6 +5,9 @@
 # Default language
 en:
   languageCode: en-us
+  title: "Chenghan Xie | Stanford Operations Research Ph.D. Student"
+  params:
+    description: "Official personal website of Chenghan Xie, a Ph.D. student in Operations Research at Stanford University working on generative models, diffusion models, and AI impact in financial markets."
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 

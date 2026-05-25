@@ -1,9 +1,23 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
+description: "Official personal website of Chenghan Xie, a Ph.D. student in Operations Research at Stanford University working on generative models, diffusion models, and AI impact in financial markets."
 summary: "Chenghan Xie is a Ph.D. student in Operations Research at Stanford University, working on generative models, diffusion models, and AI impact in financial markets."
 date: 2022-10-24
 type: landing
+aliases:
+  - /chenghan-xie/
+  - /chenghan/
+keywords:
+  - Chenghan Xie
+  - Chenghan Xie Stanford
+  - Stanford Operations Research
+  - generative models
+  - diffusion models
+  - AI impact in financial markets
+sitemap:
+  priority: 1.0
+  changefreq: weekly
 
 design:
   # Default section spacing
@@ -37,7 +51,7 @@ sections:
       title: Current Research
       subtitle: ''
       text: |-
-        My current research focuses on generative models and the economic impact of AI in financial markets.
+        Chenghan Xie's current research focuses on generative models, diffusion models, and the economic impact of AI in financial markets.
 
         I am also preparing one working paper.
     design:
