@@ -87,7 +87,7 @@ work:
 
 Welcome to my personal website! I am **Chenghan Xie** (谢承翰), a Ph.D. student in the **Operations Research** group at **Stanford University**, advised by Professors [Jose Blanchet](https://joseblanchet.com/) and [Renyuan Xu](https://renyuanxu.github.io/).
 
-My research interests lie in **Generative Models** and **AI Impact for Finance**. I am currently pursuing Stanford research in generative modeling and preparing one working paper.
+My research interests lie in **Generative Models** and **AI Impact for Finance**. My latest working paper is [The AI Monoculture Paradox in Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7664018), joint work with Jose Blanchet and Renyuan Xu on shared AI forecasts and information diversity.
 
 Before joining Stanford, I obtained my Bachelor of Mathematics from Fudan University. I have conducted research under the supervision of Prof. Yinyu Ye and Prof. Ge. Additionally, I gained industrial research experience at ByteDance Seed and Shanghai AI Laboratory, working on diffusion model acceleration, multimodal/world models, and domain-specific LLM adaptation.
 

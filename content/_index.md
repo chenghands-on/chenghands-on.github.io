@@ -53,7 +53,9 @@ sections:
       text: |-
         Chenghan Xie's current research focuses on generative models, diffusion models, and the economic impact of AI in financial markets.
 
-        I am also preparing one working paper.
+        My latest working paper, [**The AI Monoculture Paradox in Financial Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7664018), is joint work with Jose Blanchet and Renyuan Xu. We combine a Kyle-type market model with LLM-agent experiments to study how shared AI forecasts affect information diversity, trading profits, and adoption decisions. More accurate forecasts can lead to lower collective profits when traders rely on the same AI signal.
+
+        [Read the paper on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7664018) · [Try Monoculture Lab, our interactive simulation platform](https://monoculture-sandbox.fly.dev/#/welcome)
     design:
       columns: '1'
   # - block: collection
