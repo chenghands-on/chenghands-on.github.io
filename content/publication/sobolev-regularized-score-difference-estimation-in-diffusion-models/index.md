@@ -8,7 +8,7 @@ date: '2026-05-01'
 publishDate: '2026-05-16T00:00:00Z'
 publication_types:
 - paper-conference
-publication: '*International Conference on Machine Learning (ICML), 2026 (Accepted)*'
+publication: '*International Conference on Machine Learning (ICML), 2026*'
 featured: true
 links:
 - name: PDF
